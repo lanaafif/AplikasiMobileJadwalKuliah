@@ -1,0 +1,11 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+    background-color: brown;
+}
+
+h1, h2 {
+    color: white;
+}
